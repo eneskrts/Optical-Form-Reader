@@ -9,7 +9,7 @@ Programda "cevap anahtarı" şeklinde tanımladığımız dictionarye göre,4 ya
  - Kağıt ters ise düzeltiyor
  - Çember taşırılsa dahi tespit yapıyor
  - Boş bırakılan,yanlış yapılan ve birden fazla işaretlenen soruları birbirinden ayırt edebiliyor.
-* Not: Optik formun, örnektekilerle aynı stilde olması gerekmekte. Aksi takdirde okuma garantisi verilemez.  *
+*** Not: Optik formun, örnektekilerle aynı stilde olması gerekmekte. Aksi takdirde okuma garantisi verilemez.  **
 
 
 
