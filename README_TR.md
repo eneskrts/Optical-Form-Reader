@@ -7,7 +7,7 @@ Programda "cevap anahtarı" şeklinde tanımladığımız dictionarye göre,4 ya
 ![enter image description here](https://user-images.githubusercontent.com/36814346/72742953-a065fa80-3ba2-11ea-81bc-1222345a2245.png)
 
  - Kağıt ters ise düzeltiyor
- - Çember taşırılsa dahi tespit yapıyor
+ - Çember taşırılsa dahi tespit yapılıyor
  - Boş bırakılan,yanlış yapılan ve birden fazla işaretlenen soruları birbirinden ayırt edebiliyor.
  
  
